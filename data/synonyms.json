@@ -1,0 +1,20 @@
+{
+  "fee": ["tuition", "cost", "charges", "payment", "dues", "expense"],
+  "fees": ["tuition", "cost", "charges", "payments", "dues", "expenses"],
+  "hostel": ["dorm", "dormitory", "accommodation", "residence", "room", "stay"],
+  "placement": ["job", "recruitment", "hire", "hiring", "package", "salary", "career"],
+  "placements": ["jobs", "recruitment", "hiring", "packages", "salaries", "careers"],
+  "exam": ["examination", "test", "assessment", "finals", "midterm"],
+  "exams": ["examinations", "tests", "assessments", "finals", "midterms"],
+  "backlog": ["arrear", "arrears", "supplementary", "reappear", "fail", "failed", "re-exam"],
+  "backlogs": ["arrears", "supplementary", "reappear", "failed"],
+  "scholarship": ["concession", "waiver", "stipend", "grant", "aid", "financial aid"],
+  "scholarships": ["concessions", "waivers", "stipends", "grants", "aid", "financial aid"],
+  "admission": ["admit", "join", "enroll", "enrollment", "registration", "entry"],
+  "admissions": ["admit", "join", "enroll", "enrollment", "registration", "entry"],
+  "cgpa": ["gpa", "sgpa", "grades", "grade", "percentage", "marks", "score"],
+  "internet": ["wifi", "wi-fi", "network", "broadband", "connectivity"],
+  "medical": ["doctor", "health", "clinic", "dispensary", "hospital", "ambulance"],
+  "mess": ["food", "canteen", "cafeteria", "dining", "meal", "meals"],
+  "sports": ["gym", "games", "athletics", "football", "cricket", "fitness"]
+}

@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: college-faq-chatbot-backend
+    runtime: python
+    plan: free
+    buildCommand: "pip install -r backend/requirements.txt"
+    startCommand: "uvicorn app.main:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.8
+      - key: PYTHONPATH
+        value: backend
+      - key: ADMIN_TOKEN
+        value: college-admin-supersecret-2026
+      - key: SIMILARITY_THRESHOLD
+        value: "0.35"
+      - key: FRONTEND_ORIGIN
+        value: "http://localhost:5173,https://college-faq-chatbot.vercel.app"
+      - key: ANTHROPIC_MODEL
+        value: "claude-haiku-5-5"
+      - key: ANTHROPIC_API_KEY
+        sync: false
