@@ -15,8 +15,7 @@ import {
   HelpCircle,
   Database,
   Search,
-  X,
-  FileText
+  X
 } from 'lucide-react';
 import { api } from '../api';
 
@@ -51,7 +50,7 @@ export default function AdminPage({ onBackToChat }) {
   });
 
   // Verify and load dashboard
-  const loadDashboardData = async (activeToken = token) => {
+  const loadDashboardData = async (activeToken = token, isExplicitLogin = false) => {
     setLoading(true);
     setAuthError(null);
     try {
@@ -66,24 +65,31 @@ export default function AdminPage({ onBackToChat }) {
       setIsAuthenticated(true);
       localStorage.setItem('admin_token', activeToken);
     } catch (err) {
-      console.error("Admin authentication error:", err);
+      console.warn("Admin authorization check:", err.message);
       setIsAuthenticated(false);
-      setAuthError(err.message || "Invalid Admin Token. Please try again.");
+      if (isExplicitLogin) {
+        if (err.message && (err.message.includes("Failed to fetch") || err.message.includes("NetworkError"))) {
+          setAuthError("Unable to connect to backend server. Make sure the FastAPI backend is running (e.g. at http://127.0.0.1:8000).");
+        } else {
+          setAuthError(err.message || "Invalid Admin Token. Please try again.");
+        }
+      }
     } finally {
       setLoading(false);
     }
   };
 
   useEffect(() => {
-    if (token) {
-      loadDashboardData(token);
+    const savedToken = localStorage.getItem('admin_token');
+    if (savedToken) {
+      loadDashboardData(savedToken, false);
     }
   }, []);
 
   const handleLogin = (e) => {
     e.preventDefault();
     if (!token.trim()) return;
-    loadDashboardData(token.trim());
+    loadDashboardData(token.trim(), true);
   };
 
   const handleLogout = () => {

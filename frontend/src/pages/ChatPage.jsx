@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Send, Trash2, Filter, Sparkles, RefreshCw, AlertCircle } from 'lucide-react';
+import { Send, Trash2, Filter, AlertCircle } from 'lucide-react';
 import { api } from '../api';
 import MessageItem from '../components/MessageItem';
 import StarterChips from '../components/StarterChips';
@@ -7,7 +7,7 @@ import TypingIndicator from '../components/TypingIndicator';
 import ExplainPanel from '../components/ExplainPanel';
 import ColdStartBanner from '../components/ColdStartBanner';
 
-export default function ChatPage({ isOnline, setIsOnline }) {
+export default function ChatPage({ isOnline, setIsOnline, injectedPrompt, onPromptConsumed }) {
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
@@ -28,6 +28,14 @@ export default function ChatPage({ isOnline, setIsOnline }) {
   useEffect(() => {
     scrollToBottom();
   }, [messages, loading]);
+
+  // Handle injected prompt from FAQ catalog
+  useEffect(() => {
+    if (injectedPrompt) {
+      handleSend(injectedPrompt);
+      if (onPromptConsumed) onPromptConsumed();
+    }
+  }, [injectedPrompt]);
 
   // Load categories and verify health on mount
   useEffect(() => {

@@ -8,7 +8,6 @@ Provides RESTful endpoints for:
 """
 
 import os
-import io
 import time
 from datetime import datetime, timezone
 from contextlib import asynccontextmanager

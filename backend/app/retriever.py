@@ -20,7 +20,7 @@ import os
 import hashlib
 import numpy as np
 import pandas as pd
-from typing import List, Dict, Any, Optional, Tuple
+from typing import List, Dict, Any, Optional
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 

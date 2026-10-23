@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Bot, User, ThumbsUp, ThumbsDown, Sparkles, Check, HelpCircle, ExternalLink } from 'lucide-react';
+import { Bot, User, ThumbsUp, ThumbsDown, Sparkles, Check, HelpCircle } from 'lucide-react';
 
 export default function MessageItem({ message, onSelectSuggestion, onOpenExplain, onFeedback }) {
   const isUser = message.role === 'user';

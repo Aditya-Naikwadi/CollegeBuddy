@@ -1,5 +1,5 @@
 import React from 'react';
-import { GraduationCap, Moon, Sun, Shield, HelpCircle, Activity } from 'lucide-react';
+import { GraduationCap, Moon, Sun, Shield, HelpCircle } from 'lucide-react';
 
 export default function Navbar({ darkMode, setDarkMode, isOnline, onOpenAdmin, onViewCatalog }) {
   return (

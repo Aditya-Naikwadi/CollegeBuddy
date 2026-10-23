@@ -12,6 +12,7 @@ export default function App() {
   const [isOnline, setIsOnline] = useState(false);
   const [currentView, setCurrentView] = useState('chat'); // 'chat' | 'admin'
   const [isCatalogOpen, setIsCatalogOpen] = useState(false);
+  const [injectedPrompt, setInjectedPrompt] = useState(null);
 
   useEffect(() => {
     if (darkMode) {
@@ -42,6 +43,8 @@ export default function App() {
           <ChatPage
             isOnline={isOnline}
             setIsOnline={setIsOnline}
+            injectedPrompt={injectedPrompt}
+            onPromptConsumed={() => setInjectedPrompt(null)}
           />
         )}
       </main>
@@ -50,8 +53,10 @@ export default function App() {
       <FAQCatalogModal
         isOpen={isCatalogOpen}
         onClose={() => setIsCatalogOpen(false)}
-        onSelectQuestion={(q) => {
-          // Could inject into chat
+        onSelectQuestion={(question) => {
+          setInjectedPrompt(question);
+          setCurrentView('chat');
+          setIsCatalogOpen(false);
         }}
       />
     </div>

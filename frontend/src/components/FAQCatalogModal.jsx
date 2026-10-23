@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { X, Search, BookOpen, ExternalLink, Tag } from 'lucide-react';
+import { X, Search, BookOpen, ExternalLink } from 'lucide-react';
 import { api } from '../api';
 
 export default function FAQCatalogModal({ isOpen, onClose, onSelectQuestion }) {
