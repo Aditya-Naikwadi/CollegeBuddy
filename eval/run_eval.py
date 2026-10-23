@@ -34,7 +34,10 @@ if hasattr(sys.stdout, "reconfigure"):
     except Exception:
         pass
 
-from app.retriever import FAQRetriever, DEFAULT_SIMILARITY_THRESHOLD
+try:
+    from backend.app.retriever import FAQRetriever, DEFAULT_SIMILARITY_THRESHOLD
+except ImportError:
+    from app.retriever import FAQRetriever, DEFAULT_SIMILARITY_THRESHOLD
 
 EVAL_DIR = os.path.join(PROJECT_ROOT, "eval")
 TEST_QUESTIONS_CSV = os.path.join(EVAL_DIR, "test_questions.csv")
