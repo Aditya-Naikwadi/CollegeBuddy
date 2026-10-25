@@ -1,0 +1,2242 @@
+[
+  {
+    "id":1,
+    "category":"About the College",
+    "question":"What is the full name of the college?",
+    "answer":"B. K. Birla College of Arts, Science & Commerce, Kalyan.",
+    "paraphrases":"What is the full name of the college?",
+    "keywords":"full|name|arts|science|commerce",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":2,
+    "category":"About the College",
+    "question":"Where is it located?",
+    "answer":"In Kalyan, Maharashtra. Address and phone details are on the Contact Us page (bkbck.edu.in\/contact-us\/).",
+    "paraphrases":"Where is it located?",
+    "keywords":"located|maharashtra|address|phone|contact",
+    "source_url":"https:\/\/bkbck.edu.in\/contact-us\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":3,
+    "category":"About the College",
+    "question":"When was the college established?",
+    "answer":"In 1972.",
+    "paraphrases":"When was the college established?",
+    "keywords":"established|1972",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":4,
+    "category":"About the College",
+    "question":"Which university is it affiliated with?",
+    "answer":"The University of Mumbai.",
+    "paraphrases":"Which university is it affiliated with?",
+    "keywords":"university|affiliated|mumbai",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":5,
+    "category":"About the College",
+    "question":"Is the college autonomous?",
+    "answer":"Yes. It has Autonomous Status for 2023\u20132033.",
+    "paraphrases":"Is the college autonomous?",
+    "keywords":"autonomous|status|2023|2033",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":6,
+    "category":"About the College",
+    "question":"What NAAC grade does it hold?",
+    "answer":"NAAC 'A++'.",
+    "paraphrases":"What NAAC grade does it hold?",
+    "keywords":"naac|grade|hold",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":7,
+    "category":"About the College",
+    "question":"Does it have ISO certification?",
+    "answer":"Yes, ISO 9001:2015.",
+    "paraphrases":"Does it have ISO certification?",
+    "keywords":"certification|9001|2015",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":8,
+    "category":"About the College",
+    "question":"How big is the campus?",
+    "answer":"About 20 acres, described as a green campus.",
+    "paraphrases":"How big is the campus?",
+    "keywords":"campus|acres|described|green",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":9,
+    "category":"About the College",
+    "question":"How many programs does it offer?",
+    "answer":"33 undergraduate, 34 postgraduate and 9 Ph.D. programs, plus vocational, diploma and skill-based courses.",
+    "paraphrases":"How many programs does it offer?",
+    "keywords":"many|programs|offer|undergraduate|postgraduate|plus|vocational|diploma",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":10,
+    "category":"About the College",
+    "question":"What is the college's motto or tagline?",
+    "answer":"\"Engaging, Nurturing, Transforming.\"",
+    "paraphrases":"What is the college's motto or tagline?",
+    "keywords":"motto|tagline|engaging|nurturing|transforming",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":11,
+    "category":"About the College",
+    "question":"Does the college have a Junior College?",
+    "answer":"Yes, in Arts, Commerce and Science.",
+    "paraphrases":"Does the college have a Junior College?",
+    "keywords":"junior|arts|commerce|science",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":12,
+    "category":"About the College",
+    "question":"Is the college government, aided or unaided?",
+    "answer":"It has both. The site marks some programs as \"Unaided\" (for example, all Technology programs), and the faculty recruitment notice is for Assistant Professor (Unaided).",
+    "paraphrases":"Is the college government, aided or unaided?",
+    "keywords":"government|aided|unaided|both|marks|programs|example|technology",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":13,
+    "category":"About the College",
+    "question":"Who is the college's revered patron?",
+    "answer":"Pujya Syt. B. K. Birla Ji. The college posted a tribute on his 104th birth anniversary.",
+    "paraphrases":"Who is the college's revered patron?",
+    "keywords":"revered|patron|pujya|posted|tribute|104th|birth|anniversary",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":14,
+    "category":"About the College",
+    "question":"What are the \"B. K. Birla Institutes\"?",
+    "answer":"It's a section linked from the top of the website. I haven't read its contents, so check bkbck.edu.in\/birla_institutes\/.",
+    "paraphrases":"What are the \"B. K. Birla Institutes\"?",
+    "keywords":"institutes|section|linked|website|haven|read|contents|birla_institutes",
+    "source_url":"https:\/\/bkbck.edu.in\/birla_institutes\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":15,
+    "category":"About the College",
+    "question":"Is there a virtual campus tour?",
+    "answer":"Yes, a 360\u00b0 interactive tour at bkbck.netlify.app. It offers virtual tour, campus exploration, immersive views and free navigation.",
+    "paraphrases":"Is there a virtual campus tour?",
+    "keywords":"virtual|campus|tour|interactive|netlify|offers|exploration|immersive",
+    "source_url":"https:\/\/bkbck.netlify.app",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":16,
+    "category":"About the College",
+    "question":"What is the official website?",
+    "answer":"https:\/\/bkbck.edu.in\/",
+    "paraphrases":"What is the official website?",
+    "keywords":"official|website|https",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":17,
+    "category":"About the College",
+    "question":"Does the college have an alumni network?",
+    "answer":"Yes, there's an Alumni page for staying connected with the college.",
+    "paraphrases":"Does the college have an alumni network?",
+    "keywords":"alumni|network|staying|connected",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":18,
+    "category":"About the College",
+    "question":"Which social media pages does it have?",
+    "answer":"Facebook, YouTube, Instagram and LinkedIn.",
+    "paraphrases":"Which social media pages does it have?",
+    "keywords":"social|media|pages|facebook|youtube|instagram|linkedin",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":19,
+    "category":"About the College",
+    "question":"Does the college publish a blog, news and events?",
+    "answer":"Yes. The site has Blog, News, Events, Notices and Achievements sections.",
+    "paraphrases":"Does the college publish a blog, news and events?",
+    "keywords":"publish|blog|news|events|notices|achievements|sections",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":20,
+    "category":"About the College",
+    "question":"What is Mpower?",
+    "answer":"It's the college's online portal. Students and faculty log in through it (via the MastersoftERP\/CIMS system).",
+    "paraphrases":"What is Mpower?",
+    "keywords":"mpower|online|portal|students|faculty|through|mastersofterp|cims",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":21,
+    "category":"About the College",
+    "question":"Where can students log in?",
+    "answer":"Through the \"Student\" link on the site (cimsstudentnewui.mastersofterp.in). Faculty use a separate \"Faculty\" login.",
+    "paraphrases":"Where can students log in?",
+    "keywords":"students|through|student|link|cimsstudentnewui|mastersofterp|faculty|separate",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":22,
+    "category":"About the College",
+    "question":"Does the college have a photo and video gallery?",
+    "answer":"Yes, there's a Gallery page with photos and videos.",
+    "paraphrases":"Does the college have a photo and video gallery?",
+    "keywords":"photo|video|gallery|photos|videos",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":23,
+    "category":"Accreditation, Rankings and Recognition",
+    "question":"What is the IQAC?",
+    "answer":"The Internal Quality Assurance Cell. The site has pages for About IQAC, member list, minutes reports and annual reports.",
+    "paraphrases":"What is the IQAC?",
+    "keywords":"iqac|internal|quality|assurance|cell|pages|member|list",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":24,
+    "category":"Accreditation, Rankings and Recognition",
+    "question":"Where can I find NAAC documents?",
+    "answer":"Under the IQAC & NAAC menu: About NAAC, IIQA undertaking, IQAC criteria, AQAR best practices and the SSR best practices.",
+    "paraphrases":"Where can I find NAAC documents?",
+    "keywords":"find|naac|documents|under|iqac|menu|iiqa|undertaking",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":25,
+    "category":"Accreditation, Rankings and Recognition",
+    "question":"Does the college publish AQARs?",
+    "answer":"Yes. There's an AQAR Lists page, and the 2023\u201324 Best Practices I and II PDFs.",
+    "paraphrases":"Does the college publish AQARs?",
+    "keywords":"publish|aqars|aqar|lists|2023|best|practices|pdfs",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":26,
+    "category":"Accreditation, Rankings and Recognition",
+    "question":"Is the college ranked under NIRF?",
+    "answer":"The site has NIRF Overall, NIRF College and NIRF feedback pages. The rank itself is on those pages.",
+    "paraphrases":"Is the college ranked under NIRF?",
+    "keywords":"ranked|under|nirf|overall|feedback|pages|rank|itself",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":27,
+    "category":"Accreditation, Rankings and Recognition",
+    "question":"Is the college AICTE approved?",
+    "answer":"For its AICTE-regulated programs, yes. The site publishes the AICTE Letter of Approval, Letter of Extension, Mandatory Disclosures, Brochure, Syllabus and Admission Notice.",
+    "paraphrases":"Is the college AICTE approved?",
+    "keywords":"aicte|approved|regulated|programs|publishes|letter|approval|extension",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":28,
+    "category":"Accreditation, Rankings and Recognition",
+    "question":"Which courses are AICTE-linked?",
+    "answer":"The notices mention F.Y.B.C.A. (BCA) and F.Y.B.M.S. as \"AICTE (NEP)\" courses.",
+    "paraphrases":"Which courses are AICTE-linked?",
+    "keywords":"courses|aicte|linked|notices|mention",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":29,
+    "category":"Accreditation, Rankings and Recognition",
+    "question":"What is \"Institutional Distinctiveness\"?",
+    "answer":"It's a page under IQAC & NAAC describing what makes the college distinctive.",
+    "paraphrases":"What is \"Institutional Distinctiveness\"?",
+    "keywords":"institutional|distinctiveness|under|iqac|naac|describing|makes|distinctive",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":30,
+    "category":"Accreditation, Rankings and Recognition",
+    "question":"What is the \"College of Excellence\"?",
+    "answer":"A \"Proud Moments\" page showing the college's College of Excellence recognition.",
+    "paraphrases":"What is the \"College of Excellence\"?",
+    "keywords":"excellence|proud|moments|showing|recognition",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":31,
+    "category":"Accreditation, Rankings and Recognition",
+    "question":"Is the college a DBT Star College?",
+    "answer":"Yes. The site has a DBT Star College section, with reports from the Department of Zoology.",
+    "paraphrases":"Is the college a DBT Star College?",
+    "keywords":"star|section|reports|department|zoology",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":32,
+    "category":"Accreditation, Rankings and Recognition",
+    "question":"What is FIST?",
+    "answer":"Fund for Improvement of S&T Infrastructure. The college has a FIST page.",
+    "paraphrases":"What is FIST?",
+    "keywords":"fist|fund|improvement|infrastructure",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":33,
+    "category":"Accreditation, Rankings and Recognition",
+    "question":"Has the college won any security award?",
+    "answer":"Yes, the Payment Security Excellence Award 2025 from the PCI Security Standards Council, supported by DSCI, the Cyber Security Association of India and ISACA Mumbai Chapter.",
+    "paraphrases":"Has the college won any security award?",
+    "keywords":"security|award|payment|excellence|2025|standards|council|supported",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":34,
+    "category":"Accreditation, Rankings and Recognition",
+    "question":"Does the college have a patents cell?",
+    "answer":"Yes. Dr. Narayan Totewad of Microbiology was also congratulated for a UK Design Patent.",
+    "paraphrases":"Does the college have a patents cell?",
+    "keywords":"patents|cell|narayan|totewad|microbiology|congratulated|design|patent",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":35,
+    "category":"Accreditation, Rankings and Recognition",
+    "question":"Are there rules about public disclosure?",
+    "answer":"The site publishes the \"Guidelines on Public Self-Disclosure by Higher Education Institutions\" PDF.",
+    "paraphrases":"Are there rules about public disclosure?",
+    "keywords":"rules|public|disclosure|publishes|guidelines|self|higher|education",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":36,
+    "category":"Accreditation, Rankings and Recognition",
+    "question":"Does the college follow RTI?",
+    "answer":"Yes, there's a Right To Information page.",
+    "paraphrases":"Does the college follow RTI?",
+    "keywords":"follow|right|information",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":37,
+    "category":"Programs Overview",
+    "question":"What streams does the Degree College offer?",
+    "answer":"Arts, Commerce, Science, Technology, Management and New Age Programs.",
+    "paraphrases":"What streams does the Degree College offer?",
+    "keywords":"streams|degree|offer|arts|commerce|science|technology|management",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":38,
+    "category":"Programs Overview",
+    "question":"What are \"New Age Programs\"?",
+    "answer":"A separate category on the site. I haven't read its contents; see bkbck.edu.in\/new-age-programs\/.",
+    "paraphrases":"What are \"New Age Programs\"?",
+    "keywords":"programs|separate|category|haven|read|contents",
+    "source_url":"https:\/\/bkbck.edu.in\/new-age-programs\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":39,
+    "category":"Programs Overview",
+    "question":"Does the college offer Ph.D. programs?",
+    "answer":"Yes (9 in total). Examples: Economics, Hindi, History, Biotechnology, Botany, Chemistry, Physics.",
+    "paraphrases":"Does the college offer Ph.D. programs?",
+    "keywords":"offer|programs|total|examples|economics|hindi|history|biotechnology",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":40,
+    "category":"Programs Overview",
+    "question":"Where is the list of Ph.D. guides?",
+    "answer":"A \"List of Ph.D. Guides\" PDF is under Knowledge Hub \u2192 Research.",
+    "paraphrases":"Where is the list of Ph.D. guides?",
+    "keywords":"list|guides|under|knowledge|research",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":41,
+    "category":"Programs Overview",
+    "question":"Does the college follow NEP 2020?",
+    "answer":"Yes. It has an NEP 2020 booklet, an NEP Cell and an Examination Manual under NEP 2020.",
+    "paraphrases":"Does the college follow NEP 2020?",
+    "keywords":"follow|2020|booklet|cell|examination|manual|under",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":42,
+    "category":"Programs Overview",
+    "question":"What is the OBE Manual?",
+    "answer":"The Outcome-Based Education manual, published on the site, with an OBE Committee.",
+    "paraphrases":"What is the OBE Manual?",
+    "keywords":"manual|outcome|based|education|published|committee",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":43,
+    "category":"Programs Overview",
+    "question":"What is the Standard Operating Procedure document?",
+    "answer":"A PDF listed under Academics that sets out the college's procedures.",
+    "paraphrases":"What is the Standard Operating Procedure document?",
+    "keywords":"standard|operating|procedure|document|listed|under|academics|sets",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":44,
+    "category":"Programs Overview",
+    "question":"What certificate and short courses are available?",
+    "answer":"Examples: Spoken English, Sugam Marathi, Travel and Tourism, Digital Skills with Microsoft 365, Civil Services Aptitude Test, History in Competitive Exams, AI for Leaders, Data Analytics Using Python, Robotics, Astronomy and Nanotechnology.",
+    "paraphrases":"What certificate and short courses are available?",
+    "keywords":"certificate|short|courses|available|examples|spoken|english|sugam",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":45,
+    "category":"Programs Overview",
+    "question":"Does the college offer diplomas?",
+    "answer":"Yes, for example Diploma in Sports Management, Diploma in Event Management & PR, and Post Graduate Diplomas in Sports Management and Event Management & PR.",
+    "paraphrases":"Does the college offer diplomas?",
+    "keywords":"offer|diplomas|example|diploma|sports|management|event|post",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":46,
+    "category":"Programs Overview",
+    "question":"Does the college offer vocational degrees?",
+    "answer":"Yes, B.Voc. in Financial Market & Trading Operations, Cyber Security & Forensics, and Medical Laboratory Technology.",
+    "paraphrases":"Does the college offer vocational degrees?",
+    "keywords":"offer|vocational|degrees|financial|market|trading|operations|cyber",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":47,
+    "category":"Arts Programs",
+    "question":"Which B.A. subjects are offered?",
+    "answer":"Economics, English, Geography, Hindi, History, Marathi, Philosophy and Political Science.",
+    "paraphrases":"Which B.A. subjects are offered?",
+    "keywords":"subjects|offered|economics|english|geography|hindi|history|marathi",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":48,
+    "category":"Arts Programs",
+    "question":"Is B.A.M.M.C. available?",
+    "answer":"Yes, Bachelor of Arts in Multimedia and Mass Communication.",
+    "paraphrases":"Is B.A.M.M.C. available?",
+    "keywords":"available|bachelor|arts|multimedia|mass|communication",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":49,
+    "category":"Arts Programs",
+    "question":"What sports management programs are offered?",
+    "answer":"Bachelor (BSM), Diploma (DSM), Post Graduate Diploma (PGDSM) and Master (MSM) of Sports Management.",
+    "paraphrases":"What sports management programs are offered?",
+    "keywords":"sports|management|programs|offered|bachelor|diploma|post|graduate",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":50,
+    "category":"Arts Programs",
+    "question":"Which M.A. programs are offered?",
+    "answer":"History, Business Economics, Hindi, Marathi and Political Science.",
+    "paraphrases":"Which M.A. programs are offered?",
+    "keywords":"programs|offered|history|business|economics|hindi|marathi|political",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":51,
+    "category":"Arts Programs",
+    "question":"Which Ph.D. programs are in Arts?",
+    "answer":"Economics, Hindi and History.",
+    "paraphrases":"Which Ph.D. programs are in Arts?",
+    "keywords":"programs|arts|economics|hindi|history",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":52,
+    "category":"Arts Programs",
+    "question":"Is there a course for civil services aspirants?",
+    "answer":"Yes, the Civil Services Aptitude Test course.",
+    "paraphrases":"Is there a course for civil services aspirants?",
+    "keywords":"course|civil|services|aspirants|aptitude|test",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":53,
+    "category":"Arts Programs",
+    "question":"Is there a course for History in competitive exams?",
+    "answer":"Yes, \"History in Competitive Exams.\"",
+    "paraphrases":"Is there a course for History in competitive exams?",
+    "keywords":"course|history|competitive|exams",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":54,
+    "category":"Arts Programs",
+    "question":"Is there a Spoken English course?",
+    "answer":"Yes, listed under Arts.",
+    "paraphrases":"Is there a Spoken English course?",
+    "keywords":"spoken|english|course|listed|under|arts",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":55,
+    "category":"Arts Programs",
+    "question":"What is Sugam Marathi?",
+    "answer":"A Marathi language course under Arts. See its page for details.",
+    "paraphrases":"What is Sugam Marathi?",
+    "keywords":"sugam|marathi|language|course|under|arts",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":56,
+    "category":"Arts Programs",
+    "question":"Is a Travel and Tourism course available?",
+    "answer":"Yes, under Arts.",
+    "paraphrases":"Is a Travel and Tourism course available?",
+    "keywords":"travel|tourism|course|available|under|arts",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":57,
+    "category":"Arts Programs",
+    "question":"What is \"Digital Skills with Microsoft 365\"?",
+    "answer":"A skill course under Arts that covers Microsoft 365 tools.",
+    "paraphrases":"What is \"Digital Skills with Microsoft 365\"?",
+    "keywords":"digital|skills|microsoft|skill|course|under|arts|covers",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":58,
+    "category":"Arts Programs",
+    "question":"What are the eligibility rules for B.A.?",
+    "answer":"Pass HSC (12th) or an equivalent exam. There's no fixed minimum percentage, but admission is merit-based.",
+    "paraphrases":"What are the eligibility rules for B.A.?",
+    "keywords":"eligibility|rules|pass|12th|equivalent|exam|fixed|minimum",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":59,
+    "category":"Arts Programs",
+    "question":"What are the eligibility rules for B.A.M.M.C.?",
+    "answer":"Pass Class XII (Maharashtra State Board or equivalent) in Arts, Science or Commerce.",
+    "paraphrases":"What are the eligibility rules for B.A.M.M.C.?",
+    "keywords":"eligibility|rules|pass|class|maharashtra|state|board|equivalent",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":60,
+    "category":"Commerce and Management Programs",
+    "question":"Which Commerce programs are offered?",
+    "answer":"B.Com, Bachelor of Banking and Insurance, B.Com (Management Studies), B.Com (Management Studies) Logistics, B.Voc. in Financial Market & Trading Operations, and Masters in Business Management.",
+    "paraphrases":"Which Commerce programs are offered?",
+    "keywords":"commerce|programs|offered|bachelor|banking|insurance|management|studies",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":61,
+    "category":"Commerce and Management Programs",
+    "question":"Which Management programs are offered?",
+    "answer":"Bachelor of Accounting and Finance, Bachelor of Business Management and Entrepreneurial Development, B.Com Retail Management, M.Com (Business Management), M.Sc. Finance, Masters in Accounting and Finance, and Masters in E-Commerce.",
+    "paraphrases":"Which Management programs are offered?",
+    "keywords":"management|programs|offered|bachelor|accounting|finance|business|entrepreneurial",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":62,
+    "category":"Commerce and Management Programs",
+    "question":"Is BMS offered?",
+    "answer":"Yes, as B.Com (Management Studies), also called B.M.S.",
+    "paraphrases":"Is BMS offered?",
+    "keywords":"offered|management|studies|called",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":63,
+    "category":"Commerce and Management Programs",
+    "question":"Is there a Logistics specialization?",
+    "answer":"Yes, Bachelor of Commerce (Management Studies) Logistics.",
+    "paraphrases":"Is there a Logistics specialization?",
+    "keywords":"logistics|specialization|bachelor|commerce|management|studies",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":64,
+    "category":"Commerce and Management Programs",
+    "question":"Is there a Retail Management program?",
+    "answer":"Yes, Bachelor of Commerce in Retail Management.",
+    "paraphrases":"Is there a Retail Management program?",
+    "keywords":"retail|management|program|bachelor|commerce",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":65,
+    "category":"Commerce and Management Programs",
+    "question":"Is there an entrepreneurship-related degree?",
+    "answer":"Yes, the Bachelor of Business Management and Entrepreneurial Development. The college also has an Entrepreneurship Cell.",
+    "paraphrases":"Is there an entrepreneurship-related degree?",
+    "keywords":"entrepreneurship|related|degree|bachelor|business|management|entrepreneurial|development",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":66,
+    "category":"Commerce and Management Programs",
+    "question":"Which postgraduate Commerce programs are offered?",
+    "answer":"M.Com (Business Management), Masters in Accounting and Finance, Masters in E-Commerce, and M.Sc. Finance.",
+    "paraphrases":"Which postgraduate Commerce programs are offered?",
+    "keywords":"postgraduate|commerce|programs|offered|business|management|masters|accounting",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":67,
+    "category":"Commerce and Management Programs",
+    "question":"What is the eligibility for B.Com (Management Studies)?",
+    "answer":"Pass Class XII in one sitting (or a 2\u20133 year engineering diploma after SSC), with at least 45% (Open) or 40% (Reserved).",
+    "paraphrases":"What is the eligibility for B.Com (Management Studies)?",
+    "keywords":"eligibility|management|studies|pass|class|sitting|year|engineering",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":68,
+    "category":"Commerce and Management Programs",
+    "question":"What is the eligibility for B.Com (Accounting & Finance)?",
+    "answer":"Pass Class XII with at least 45% aggregate (40% Reserved) in one sitting.",
+    "paraphrases":"What is the eligibility for B.Com (Accounting & Finance)?",
+    "keywords":"eligibility|accounting|finance|pass|class|least|aggregate|reserved",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":69,
+    "category":"Commerce and Management Programs",
+    "question":"What is the eligibility for B.Com (Banking & Insurance)?",
+    "answer":"Pass Class XII with at least 45% aggregate (40% Reserved) in one sitting.",
+    "paraphrases":"What is the eligibility for B.Com (Banking & Insurance)?",
+    "keywords":"eligibility|banking|insurance|pass|class|least|aggregate|reserved",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":70,
+    "category":"Commerce and Management Programs",
+    "question":"What is the eligibility for B.Com (Financial Management)?",
+    "answer":"The same: Class XII with at least 45% aggregate (40% Reserved) in one sitting.",
+    "paraphrases":"What is the eligibility for B.Com (Financial Management)?",
+    "keywords":"eligibility|financial|management|same|class|least|aggregate|reserved",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":71,
+    "category":"Commerce and Management Programs",
+    "question":"Can diploma holders join B.Com (Management Studies)?",
+    "answer":"Yes, those with a 2- or 3-year engineering diploma from the Maharashtra Board of Technical Education after SSC, meeting the marks requirement.",
+    "paraphrases":"Can diploma holders join B.Com (Management Studies)?",
+    "keywords":"diploma|holders|join|management|studies|those|year|engineering",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":72,
+    "category":"Commerce and Management Programs",
+    "question":"Does \"one sitting\" mean anything specific?",
+    "answer":"Yes. The required marks must be obtained in a single attempt of the Class XII exam.",
+    "paraphrases":"Does \"one sitting\" mean anything specific?",
+    "keywords":"sitting|mean|anything|specific|required|marks|must|obtained",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":73,
+    "category":"Commerce and Management Programs",
+    "question":"Are BMS and BCA admissions advertised separately?",
+    "answer":"Yes. The site posted an \"Advertisement for BCA & BMS\" notice and AICTE-related notices.",
+    "paraphrases":"Are BMS and BCA admissions advertised separately?",
+    "keywords":"admissions|advertised|separately|posted|advertisement|notice|aicte|related",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":74,
+    "category":"Commerce and Management Programs",
+    "question":"Which postgraduate admissions are merit-based?",
+    "answer":"M.A., M.Com., M.Com. (E-Commerce) and most M.Sc. programs, as per University norms.",
+    "paraphrases":"Which postgraduate admissions are merit-based?",
+    "keywords":"postgraduate|admissions|merit|based|commerce|most|programs|university",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":75,
+    "category":"Science Programs",
+    "question":"Which science departments exist?",
+    "answer":"Bioanalytical Sciences, Biotechnology, Botany, Chemistry, Computer Science & IT, Environmental Science, Event Management & PR, Food Science & Nutraceuticals, Mathematics, Microbiology, Physics and Zoology.",
+    "paraphrases":"Which science departments exist?",
+    "keywords":"science|departments|exist|bioanalytical|sciences|biotechnology|botany|chemistry",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":76,
+    "category":"Science Programs",
+    "question":"Which B.Sc. programs are offered under Science?",
+    "answer":"Biotechnology, Botany, Chemistry, Mathematics, Microbiology, Physics, Zoology, and Event Management & PR. Computer Science and IT-related degrees are listed under Technology.",
+    "paraphrases":"Which B.Sc. programs are offered under Science?",
+    "keywords":"programs|offered|under|science|biotechnology|botany|chemistry|mathematics",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":77,
+    "category":"Science Programs",
+    "question":"Are there Honours programs?",
+    "answer":"Yes: B.Sc. (Honours) in Integrative Nutrition and Dietetics, and B.Sc. (Honours) in Interior Design.",
+    "paraphrases":"Are there Honours programs?",
+    "keywords":"honours|programs|integrative|nutrition|dietetics|interior|design",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":78,
+    "category":"Science Programs",
+    "question":"Is BCA offered?",
+    "answer":"Yes, the Bachelor of Computer Applications is under the Department of Computer Science & IT.",
+    "paraphrases":"Is BCA offered?",
+    "keywords":"offered|bachelor|computer|applications|under|department|science",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":79,
+    "category":"Science Programs",
+    "question":"What B.Voc. programs does Science include?",
+    "answer":"B.Voc. Cyber Security & Forensics and B.Voc. Medical Laboratory Technology.",
+    "paraphrases":"What B.Voc. programs does Science include?",
+    "keywords":"programs|science|include|cyber|security|forensics|medical|laboratory",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":80,
+    "category":"Science Programs",
+    "question":"Which M.Sc. programs are offered in Science?",
+    "answer":"Bioanalytical Sciences, Biotechnology, Industrial Biotechnology, Botany, Analytical Chemistry, Organic Chemistry, Environmental Sciences, Food Science, Microbiology, Physics (Electronics), Zoology, and Event Management & PR.",
+    "paraphrases":"Which M.Sc. programs are offered in Science?",
+    "keywords":"programs|offered|science|bioanalytical|sciences|biotechnology|industrial|botany",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":81,
+    "category":"Science Programs",
+    "question":"Which Ph.D. programs are in Science?",
+    "answer":"Biotechnology, Botany, Chemistry and Physics.",
+    "paraphrases":"Which Ph.D. programs are in Science?",
+    "keywords":"programs|science|biotechnology|botany|chemistry|physics",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":82,
+    "category":"Science Programs",
+    "question":"Which certificate courses does the Physics department offer?",
+    "answer":"Certificate Courses in Astronomy and in Robotics.",
+    "paraphrases":"Which certificate courses does the Physics department offer?",
+    "keywords":"certificate|courses|physics|department|offer|astronomy|robotics",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":83,
+    "category":"Science Programs",
+    "question":"What certificate courses does Chemistry offer?",
+    "answer":"Industrial Methods of Chemical Analysis and Nanotechnology.",
+    "paraphrases":"What certificate courses does Chemistry offer?",
+    "keywords":"certificate|courses|chemistry|offer|industrial|methods|chemical|analysis",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":84,
+    "category":"Science Programs",
+    "question":"What short courses does Environmental Science offer?",
+    "answer":"Environmental Monitoring, Environmental Nanotechnology, and Heavy Metal Analysis of Environmental Samples.",
+    "paraphrases":"What short courses does Environmental Science offer?",
+    "keywords":"short|courses|environmental|science|offer|monitoring|nanotechnology|heavy",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":85,
+    "category":"Science Programs",
+    "question":"What does Bioanalytical Sciences offer beyond the M.Sc.?",
+    "answer":"Analytical Instrumentation, Clinical Research, and an EHS (Environment, Health & Safety in analytical labs) course.",
+    "paraphrases":"What does Bioanalytical Sciences offer beyond the M.Sc.?",
+    "keywords":"bioanalytical|sciences|offer|beyond|analytical|instrumentation|clinical|research",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":86,
+    "category":"Science Programs",
+    "question":"Is Event Management a full degree path?",
+    "answer":"Yes. B.Sc., M.Sc., Diploma (DEM) and PG Diploma (PGDEM) in Event Management & Public Relations.",
+    "paraphrases":"Is Event Management a full degree path?",
+    "keywords":"event|management|full|degree|path|diploma|pgdem|public",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":87,
+    "category":"Science Programs",
+    "question":"What is the eligibility for B.Sc. Biotechnology?",
+    "answer":"Pass Class XII with Mathematics as one of the subjects.",
+    "paraphrases":"What is the eligibility for B.Sc. Biotechnology?",
+    "keywords":"eligibility|biotechnology|pass|class|mathematics|subjects",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":88,
+    "category":"Science Programs",
+    "question":"Which M.Sc. programs require an entrance exam?",
+    "answer":"M.Sc. Environmental Science and M.Sc. Bioanalytical Science.",
+    "paraphrases":"Which M.Sc. programs require an entrance exam?",
+    "keywords":"programs|require|entrance|exam|environmental|science|bioanalytical",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":89,
+    "category":"Science Programs",
+    "question":"How are other M.Sc. admissions decided?",
+    "answer":"On merit, as per University norms (Physics, Chemistry, Botany, Zoology, Microbiology, Biotechnology, Computer Science, IT).",
+    "paraphrases":"How are other M.Sc. admissions decided?",
+    "keywords":"other|admissions|decided|merit|university|norms|physics|chemistry",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":90,
+    "category":"Science Programs",
+    "question":"Is the Zoology department notable?",
+    "answer":"It is linked with the DBT Star College scheme, with published reports.",
+    "paraphrases":"Is the Zoology department notable?",
+    "keywords":"zoology|department|notable|linked|star|scheme|published|reports",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":91,
+    "category":"Technology Programs",
+    "question":"Which undergraduate Technology programs are offered?",
+    "answer":"B.Sc. Computer Science, B.Sc. IT, B.Sc. Data Science, B.Sc. Cyber Security, and B.Sc. AI, Robotics & Automation.",
+    "paraphrases":"Which undergraduate Technology programs are offered?",
+    "keywords":"undergraduate|technology|programs|offered|computer|science|data|cyber",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":92,
+    "category":"Technology Programs",
+    "question":"How long are these undergraduate programs?",
+    "answer":"3 years. B.Sc. AI, Robotics & Automation is listed as 3 or 4 years.",
+    "paraphrases":"How long are these undergraduate programs?",
+    "keywords":"long|these|undergraduate|programs|years|robotics|automation|listed",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":93,
+    "category":"Technology Programs",
+    "question":"What are the programme codes?",
+    "answer":"B.Sc. CS: BUS203. B.Sc. IT: BUS202. B.Sc. Data Science: BUS211. B.Sc. Cyber Security: BUS212.",
+    "paraphrases":"What are the programme codes?",
+    "keywords":"programme|codes|bus203|bus202|data|science|bus211|cyber",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":94,
+    "category":"Technology Programs",
+    "question":"Which postgraduate Technology programs are offered?",
+    "answer":"M.Sc. Computer Science, M.Sc. IT (Cloud Computing), M.Sc. Data Science & Big Data Analytics, M.Sc. Artificial Intelligence, and M.Sc. Cyber Security.",
+    "paraphrases":"Which postgraduate Technology programs are offered?",
+    "keywords":"postgraduate|technology|programs|offered|computer|science|cloud|computing",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":95,
+    "category":"Technology Programs",
+    "question":"How long are the M.Sc. programs?",
+    "answer":"2 years.",
+    "paraphrases":"How long are the M.Sc. programs?",
+    "keywords":"long|programs|years",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":96,
+    "category":"Technology Programs",
+    "question":"What are the M.Sc. programme codes?",
+    "answer":"Computer Science: BPSCS207. IT (Cloud Computing): BPSCC221. Data Science & Big Data: BPSBDA211. AI: BPSAI212. Cyber Security: none listed.",
+    "paraphrases":"What are the M.Sc. programme codes?",
+    "keywords":"programme|codes|computer|science|bpscs207|cloud|computing|bpscc221",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":97,
+    "category":"Technology Programs",
+    "question":"Are the Technology programs aided or unaided?",
+    "answer":"They are listed as unaided.",
+    "paraphrases":"Are the Technology programs aided or unaided?",
+    "keywords":"technology|programs|aided|unaided|listed",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":98,
+    "category":"Technology Programs",
+    "question":"Which certificate courses are in Technology?",
+    "answer":"AI for Leaders (3 months), Robotics, Data Analytics Using Python, Game Development Using Scratch, and Computer Hardware & Maintenance.",
+    "paraphrases":"Which certificate courses are in Technology?",
+    "keywords":"certificate|courses|technology|leaders|months|robotics|data|analytics",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":99,
+    "category":"Technology Programs",
+    "question":"How long is \"AI for Leaders\"?",
+    "answer":"3 months.",
+    "paraphrases":"How long is \"AI for Leaders\"?",
+    "keywords":"long|leaders|months",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":100,
+    "category":"Technology Programs",
+    "question":"Who heads the IT department?",
+    "answer":"Ms. Esmita Gupta, who is also Senior Vice-Principal (Unit II) and Chief Technology Officer.",
+    "paraphrases":"Who heads the IT department?",
+    "keywords":"heads|department|esmita|gupta|senior|vice|principal|unit",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":101,
+    "category":"Technology Programs",
+    "question":"How big is the CS & IT faculty?",
+    "answer":"About 30 faculty members are listed.",
+    "paraphrases":"How big is the CS & IT faculty?",
+    "keywords":"faculty|members|listed",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":102,
+    "category":"Technology Programs",
+    "question":"Does the department publish a newsletter?",
+    "answer":"Yes, \"TantrashAstra,\" published monthly (June, July and August 2026 issues are online).",
+    "paraphrases":"Does the department publish a newsletter?",
+    "keywords":"department|publish|newsletter|tantrashastra|published|monthly|june|july",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":103,
+    "category":"Technology Programs",
+    "question":"What does the B.Sc. IT program cover?",
+    "answer":"Programming, networking, databases, web development, cybersecurity, data analytics, and emerging areas such as AI and IoT.",
+    "paraphrases":"What does the B.Sc. IT program cover?",
+    "keywords":"program|cover|programming|networking|databases|development|cybersecurity|data",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":104,
+    "category":"Technology Programs",
+    "question":"What is the eligibility for B.Sc. IT?",
+    "answer":"Class XII (Maharashtra Board or equivalent) with Mathematics, and at least 45% (Open) or 40% (Reserved) at first attempt.",
+    "paraphrases":"What is the eligibility for B.Sc. IT?",
+    "keywords":"eligibility|class|maharashtra|board|equivalent|mathematics|least|open",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":105,
+    "category":"Technology Programs",
+    "question":"What is the eligibility for B.Sc. Computer Science?",
+    "answer":"Class XII with Mathematics and Statistics as one of the subjects.",
+    "paraphrases":"What is the eligibility for B.Sc. Computer Science?",
+    "keywords":"eligibility|computer|science|class|mathematics|statistics|subjects",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":106,
+    "category":"Technology Programs",
+    "question":"What does Semester I of B.Sc. IT include?",
+    "answer":"Database Management System, Computer Oriented Architecture, Mathematical Foundations of Information Science, Introduction to Programming (C++), Understanding e-Services, Effective Business Communication-I and Indian Science and Technology.",
+    "paraphrases":"What does Semester I of B.Sc. IT include?",
+    "keywords":"semester|include|database|management|system|computer|oriented|architecture",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":107,
+    "category":"Technology Programs",
+    "question":"How many credits is Semester I of B.Sc. IT?",
+    "answer":"22 credits.",
+    "paraphrases":"How many credits is Semester I of B.Sc. IT?",
+    "keywords":"many|credits|semester",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":108,
+    "category":"Technology Programs",
+    "question":"What does Semester II of B.Sc. IT include?",
+    "answer":"Computer Network, Operating System, Numerical Analysis with C++, Python Programming, Embedded System, Effective Business Communication-II, Environmental Science-II and a SWAYAM yoga course.",
+    "paraphrases":"What does Semester II of B.Sc. IT include?",
+    "keywords":"semester|include|computer|network|operating|system|numerical|analysis",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":109,
+    "category":"Technology Programs",
+    "question":"Which programming languages appear in the first-year B.Sc. IT?",
+    "answer":"C++ in Semester I and Python in Semester II.",
+    "paraphrases":"Which programming languages appear in the first-year B.Sc. IT?",
+    "keywords":"programming|languages|appear|first|year|semester|python",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":110,
+    "category":"Technology Programs",
+    "question":"Does B.Sc. IT include a yoga or wellness course?",
+    "answer":"Yes, \"Yoga & Positive Psychology for managing career & life\" through SWAYAM.",
+    "paraphrases":"Does B.Sc. IT include a yoga or wellness course?",
+    "keywords":"include|yoga|wellness|course|positive|psychology|managing|career",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":111,
+    "category":"Technology Programs",
+    "question":"What kinds of paper categories appear in the syllabus?",
+    "answer":"Major, Minor, VSC, SEC, AEC, VEC, IKS and CC, which follow the NEP 2020 credit framework.",
+    "paraphrases":"What kinds of paper categories appear in the syllabus?",
+    "keywords":"kinds|paper|categories|appear|syllabus|major|minor|follow",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":112,
+    "category":"Technology Programs",
+    "question":"Does the B.Sc. IT syllabus include Indian Knowledge Systems?",
+    "answer":"Yes, \"Indian Science and Technology\" is an IKS paper in Semester I.",
+    "paraphrases":"Does the B.Sc. IT syllabus include Indian Knowledge Systems?",
+    "keywords":"syllabus|include|indian|knowledge|systems|science|technology|paper",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":113,
+    "category":"Technology Programs",
+    "question":"Does the program include community engagement?",
+    "answer":"Yes, a CEP Community Engagement Services course appears among the course outcomes.",
+    "paraphrases":"Does the program include community engagement?",
+    "keywords":"program|include|community|engagement|services|course|appears|among",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":114,
+    "category":"Technology Programs",
+    "question":"Does the IT course mention IoT?",
+    "answer":"Yes. One course outcome covers designing and programming IoT devices.",
+    "paraphrases":"Does the IT course mention IoT?",
+    "keywords":"course|mention|outcome|covers|designing|programming|devices",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":115,
+    "category":"Technology Programs",
+    "question":"Where can I read the full IT syllabus?",
+    "answer":"On the B.Sc. IT page: bkbck.edu.in\/science\/department-of-computer-science-and-it\/it\/",
+    "paraphrases":"Where can I read the full IT syllabus?",
+    "keywords":"read|full|syllabus|science|department|computer",
+    "source_url":"https:\/\/bkbck.edu.in\/science\/department-of-computer-science-and-it\/it\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":116,
+    "category":"Technology Programs",
+    "question":"Are course outcomes published?",
+    "answer":"Yes, along with program outcomes (PO) on the course pages.",
+    "paraphrases":"Are course outcomes published?",
+    "keywords":"course|outcomes|published|along|program|pages",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":117,
+    "category":"Technology Programs",
+    "question":"Is there a separate B.Sc. Computer Science syllabus PDF?",
+    "answer":"An older syllabus PDF is online (on the www.bkbck.edu.in file server). It lists courses like Digital Systems & Architecture and Python programming.",
+    "paraphrases":"Is there a separate B.Sc. Computer Science syllabus PDF?",
+    "keywords":"separate|computer|science|syllabus|older|online|file|server",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":118,
+    "category":"Eligibility and Qualifying Exams",
+    "question":"What is the Junior College (XI\/XII\/Vocational) eligibility?",
+    "answer":"Pass Class X (Maharashtra State Board or equivalent).",
+    "paraphrases":"What is the Junior College (XI\/XII\/Vocational) eligibility?",
+    "keywords":"junior|vocational|eligibility|pass|class|maharashtra|state|board",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":119,
+    "category":"Eligibility and Qualifying Exams",
+    "question":"Is a minimum percentage required for B.A.?",
+    "answer":"No fixed minimum, but admission is merit-based.",
+    "paraphrases":"Is a minimum percentage required for B.A.?",
+    "keywords":"minimum|percentage|required|fixed|admission|merit|based",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":120,
+    "category":"Eligibility and Qualifying Exams",
+    "question":"Do Reserved Category students get lower cut-offs?",
+    "answer":"Yes, on programs that specify them: 40% instead of 45% for BMS, B.Com variants and B.Sc. IT.",
+    "paraphrases":"Do Reserved Category students get lower cut-offs?",
+    "keywords":"reserved|category|students|lower|offs|programs|specify|them",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":121,
+    "category":"Eligibility and Qualifying Exams",
+    "question":"Which programs require Mathematics in Class XII?",
+    "answer":"B.Sc. IT, B.Sc. Biotechnology and B.Sc. Computer Science (with Statistics).",
+    "paraphrases":"Which programs require Mathematics in Class XII?",
+    "keywords":"programs|require|mathematics|class|biotechnology|computer|science|statistics",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":122,
+    "category":"Eligibility and Qualifying Exams",
+    "question":"Can students from other boards apply?",
+    "answer":"Yes, where the page says \"or an equivalent\" board or examination.",
+    "paraphrases":"Can students from other boards apply?",
+    "keywords":"students|other|boards|apply|says|equivalent|board|examination",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":123,
+    "category":"Eligibility and Qualifying Exams",
+    "question":"Can Commerce students apply to B.A.M.M.C.?",
+    "answer":"Yes. Arts, Science and Commerce graduates of Class XII are eligible.",
+    "paraphrases":"Can Commerce students apply to B.A.M.M.C.?",
+    "keywords":"commerce|students|apply|arts|science|graduates|class|eligible",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":124,
+    "category":"Eligibility and Qualifying Exams",
+    "question":"Is B.Sc. IT open to Commerce students?",
+    "answer":"Only if they studied Mathematics in Class XII and meet the percentage requirement.",
+    "paraphrases":"Is B.Sc. IT open to Commerce students?",
+    "keywords":"open|commerce|students|studied|mathematics|class|meet|percentage",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":125,
+    "category":"Eligibility and Qualifying Exams",
+    "question":"Can diploma holders join B.Sc. programs?",
+    "answer":"The site only mentions the diploma route for B.Com (Management Studies).",
+    "paraphrases":"Can diploma holders join B.Sc. programs?",
+    "keywords":"diploma|holders|join|programs|mentions|route|management|studies",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":126,
+    "category":"Eligibility and Qualifying Exams",
+    "question":"What about eligibility for Ph.D.?",
+    "answer":"The site tells you to refer to the University website.",
+    "paraphrases":"What about eligibility for Ph.D.?",
+    "keywords":"eligibility|tells|refer|university|website",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":127,
+    "category":"Eligibility and Qualifying Exams",
+    "question":"What does \"first attempt\" mean for B.Sc. IT?",
+    "answer":"The required marks must be earned in your first attempt at the qualifying exam.",
+    "paraphrases":"What does \"first attempt\" mean for B.Sc. IT?",
+    "keywords":"first|attempt|mean|required|marks|must|earned|your",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":128,
+    "category":"Admission Process",
+    "question":"How do I apply for Degree College admission?",
+    "answer":"Register online at enrollonline.co.in\/registration\/apply\/bkbc.",
+    "paraphrases":"How do I apply for Degree College admission?",
+    "keywords":"apply|degree|admission|register|online|enrollonline|registration|bkbc",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":129,
+    "category":"Admission Process",
+    "question":"How do I apply to Junior College?",
+    "answer":"Through the Junior College Admission Registration page on the site.",
+    "paraphrases":"How do I apply to Junior College?",
+    "keywords":"apply|junior|through|admission|registration",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":130,
+    "category":"Admission Process",
+    "question":"Is there a detailed admission process document?",
+    "answer":"Yes, an \"Admission Process\" PDF (not readable in my tools), so open it from the Admission menu.",
+    "paraphrases":"Is there a detailed admission process document?",
+    "keywords":"detailed|admission|process|document|readable|tools|open|menu",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":131,
+    "category":"Admission Process",
+    "question":"Is there an \"Apply Now\" button?",
+    "answer":"Yes, on the site header and pages.",
+    "paraphrases":"Is there an \"Apply Now\" button?",
+    "keywords":"apply|button|header|pages",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":132,
+    "category":"Admission Process",
+    "question":"Is there an Enquire Now form?",
+    "answer":"Yes, a floating \"Enquire Now\" form on the site.",
+    "paraphrases":"Is there an Enquire Now form?",
+    "keywords":"enquire|form|floating",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":133,
+    "category":"Admission Process",
+    "question":"Does the college publish merit lists?",
+    "answer":"Yes. It has posted CAP Round Merit List III and Institute Quota Merit List 3.",
+    "paraphrases":"Does the college publish merit lists?",
+    "keywords":"publish|merit|lists|posted|round|list|institute|quota",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":134,
+    "category":"Admission Process",
+    "question":"What is the CAP round?",
+    "answer":"The Centralized Admission Process used for some courses. The college uses it for certain programs and also has an Institute Quota.",
+    "paraphrases":"What is the CAP round?",
+    "keywords":"round|centralized|admission|process|used|courses|uses|certain",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":135,
+    "category":"Admission Process",
+    "question":"Is there an Institute Quota?",
+    "answer":"Yes, merit lists for it are published.",
+    "paraphrases":"Is there an Institute Quota?",
+    "keywords":"institute|quota|merit|lists|published",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":136,
+    "category":"Admission Process",
+    "question":"Are admissions merit-based?",
+    "answer":"Mostly. A few programs (M.Sc. Environmental Science, Bioanalytical Science) use entrance exams.",
+    "paraphrases":"Are admissions merit-based?",
+    "keywords":"admissions|merit|based|mostly|programs|environmental|science|bioanalytical",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":137,
+    "category":"Admission Process",
+    "question":"Where are admission notices posted?",
+    "answer":"Under Admission \u2192 Admission Notice, and in the Notices section.",
+    "paraphrases":"Where are admission notices posted?",
+    "keywords":"admission|notices|posted|under|notice|section",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":138,
+    "category":"Admission Process",
+    "question":"Are there fee waivers for some categories?",
+    "answer":"The site has a Scholarships & Endowment Prizes page. Check it for current schemes.",
+    "paraphrases":"Are there fee waivers for some categories?",
+    "keywords":"waivers|categories|scholarships|endowment|prizes|current|schemes",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":139,
+    "category":"Admission Process",
+    "question":"Does the college mention committees for SC\/ST, OBC and minorities?",
+    "answer":"Yes: Committee for SC\/ST, OBC Cell and Minority Cell.",
+    "paraphrases":"Does the college mention committees for SC\/ST, OBC and minorities?",
+    "keywords":"mention|committees|minorities|committee|cell|minority",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":140,
+    "category":"Admission Process",
+    "question":"Where do I read the admission cancellation rules?",
+    "answer":"Admission \u2192 Rules & Regulations for Cancellation.",
+    "paraphrases":"Where do I read the admission cancellation rules?",
+    "keywords":"read|admission|cancellation|rules|regulations",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":141,
+    "category":"Admission Process",
+    "question":"Is there an Anti-Ragging Cell?",
+    "answer":"Yes, under Committees and Cells.",
+    "paraphrases":"Is there an Anti-Ragging Cell?",
+    "keywords":"anti|ragging|cell|under|committees|cells",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":142,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"Where is the official fee structure?",
+    "answer":"In the \"Fees Structure\" PDF under Academics (bkbck.edu.in\/wp-content\/uploads\/2026\/06\/Fees-Structure.pdf).",
+    "paraphrases":"Where is the official fee structure?",
+    "keywords":"official|structure|fees|under|academics|content|uploads|2026",
+    "source_url":"https:\/\/bkbck.edu.in\/wp-content\/uploads\/2026\/06\/Fees-Structure.pdf",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":143,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"What are the total fees for each course?",
+    "answer":"I couldn't read the PDF, so I can't state them. Please check the PDF or the admission office.",
+    "paraphrases":"What are the total fees for each course?",
+    "keywords":"total|fees|each|course|couldn|read|state|them",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":144,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"Are fees the same for aided and unaided programs?",
+    "answer":"No. Third-party sources show wide ranges, and the official PDF is the source of truth.",
+    "paraphrases":"Are fees the same for aided and unaided programs?",
+    "keywords":"fees|same|aided|unaided|programs|third|party|sources",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":145,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"What do third-party sites say about B.Sc. fees?",
+    "answer":"One site lists a range of about \u20b925,000 to \u20b91.05 lakh in total. This is unofficial and can mix up similarly named colleges.",
+    "paraphrases":"What do third-party sites say about B.Sc. fees?",
+    "keywords":"third|party|sites|fees|lists|range|lakh|total",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":146,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"What are cancellation deductions before the term starts?",
+    "answer":"\u20b9500 lump sum.",
+    "paraphrases":"What are cancellation deductions before the term starts?",
+    "keywords":"cancellation|deductions|before|term|starts|lump",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":147,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"What is deducted up to 20 days after the term starts?",
+    "answer":"20% of total fees.",
+    "paraphrases":"What is deducted up to 20 days after the term starts?",
+    "keywords":"deducted|days|after|term|starts|total|fees",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":148,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"What about days 21 to 50?",
+    "answer":"30% of total fees.",
+    "paraphrases":"What about days 21 to 50?",
+    "keywords":"days|total|fees",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":149,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"What about days 51 to 80 (or Aug 31, whichever is earlier)?",
+    "answer":"50% of total fees.",
+    "paraphrases":"What about days 51 to 80 (or Aug 31, whichever is earlier)?",
+    "keywords":"days|whichever|earlier|total|fees",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":150,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"What if I cancel between September 1 and 30?",
+    "answer":"60% of total fees.",
+    "paraphrases":"What if I cancel between September 1 and 30?",
+    "keywords":"cancel|between|september|total|fees",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":151,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"What if I cancel after September 30?",
+    "answer":"100% of fees are retained (no refund).",
+    "paraphrases":"What if I cancel after September 30?",
+    "keywords":"cancel|after|september|fees|retained|refund",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":152,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"When is the refund paid?",
+    "answer":"On or before the 30th day after the cancellation date.",
+    "paraphrases":"When is the refund paid?",
+    "keywords":"refund|paid|before|30th|after|cancellation|date",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":153,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"How do I request cancellation?",
+    "answer":"In writing, applying for cancellation of admission.",
+    "paraphrases":"How do I request cancellation?",
+    "keywords":"request|cancellation|writing|applying|admission",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":154,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"Which university rule governs refunds?",
+    "answer":"University of Mumbai Circular No. UG\/412 of 2008.",
+    "paraphrases":"Which university rule governs refunds?",
+    "keywords":"university|rule|governs|refunds|mumbai|circular|2008",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":155,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"Which fees are non-refundable?",
+    "answer":"Group insurance, and University-share items already paid (exam fee, enrollment fee, sports and cultural fee, e-charge, disaster management fund, Vice-Chancellor fund).",
+    "paraphrases":"Which fees are non-refundable?",
+    "keywords":"fees|refundable|group|insurance|university|share|items|already",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":156,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"Are ID card and library card fees refundable?",
+    "answer":"Not after the academic term begins. The same goes for admission form and prospectus fees.",
+    "paraphrases":"Are ID card and library card fees refundable?",
+    "keywords":"card|library|fees|refundable|after|academic|term|begins",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":157,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"Are lab or library deposits refunded?",
+    "answer":"Yes, refundable deposits such as laboratory, caution money and library are fully returned on cancellation.",
+    "paraphrases":"Are lab or library deposits refunded?",
+    "keywords":"library|deposits|refunded|refundable|such|laboratory|caution|money",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":158,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"Do different rules apply for centralized admissions?",
+    "answer":"Yes. If another authority sets refund rules for the centralized process, those apply to first-year admissions.",
+    "paraphrases":"Do different rules apply for centralized admissions?",
+    "keywords":"different|rules|apply|centralized|admissions|another|authority|sets",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":159,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"What applies to subsequent-year cancellations?",
+    "answer":"The \"0.2859 rule\" applies.",
+    "paraphrases":"What applies to subsequent-year cancellations?",
+    "keywords":"applies|subsequent|year|cancellations|2859|rule",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":160,
+    "category":"Fees, Refunds and Cancellation",
+    "question":"Does the college offer EMI or installment plans?",
+    "answer":"Not mentioned on the pages I read. Ask the accounts office.",
+    "paraphrases":"Does the college offer EMI or installment plans?",
+    "keywords":"offer|installment|plans|mentioned|pages|read|accounts|office",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":161,
+    "category":"Examinations",
+    "question":"Does the college conduct its own exams?",
+    "answer":"Yes, as an autonomous college it conducts exams on its own syllabus.",
+    "paraphrases":"Does the college conduct its own exams?",
+    "keywords":"conduct|exams|autonomous|conducts|syllabus",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":162,
+    "category":"Examinations",
+    "question":"Where do I find exam timetables?",
+    "answer":"Examination \u2192 Exam Timetable.",
+    "paraphrases":"Where do I find exam timetables?",
+    "keywords":"find|exam|timetables|examination|timetable",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":163,
+    "category":"Examinations",
+    "question":"Where are admit cards issued?",
+    "answer":"Examination \u2192 Admit Card.",
+    "paraphrases":"Where are admit cards issued?",
+    "keywords":"admit|cards|issued|examination|card",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":164,
+    "category":"Examinations",
+    "question":"Where can I check results?",
+    "answer":"Examination \u2192 Results \u2013 Degree College.",
+    "paraphrases":"Where can I check results?",
+    "keywords":"results|examination|degree",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":165,
+    "category":"Examinations",
+    "question":"Is there an examination manual?",
+    "answer":"Yes, the \"Examination Manual (NEP 2020).\"",
+    "paraphrases":"Is there an examination manual?",
+    "keywords":"examination|manual|2020",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":166,
+    "category":"Examinations",
+    "question":"What is the Board of Examination page for?",
+    "answer":"It lists the exam governing board.",
+    "paraphrases":"What is the Board of Examination page for?",
+    "keywords":"board|examination|lists|exam|governing",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":167,
+    "category":"Examinations",
+    "question":"Are circulars posted?",
+    "answer":"Yes, under Circular Notifications.",
+    "paraphrases":"Are circulars posted?",
+    "keywords":"circulars|posted|under|circular|notifications",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":168,
+    "category":"Examinations",
+    "question":"When do Winter Session 2026 exams start?",
+    "answer":"Commencement notices for UG FY Sem-I and SY Sem-III (NEP) and PG Part-I Sem-I and Part-II Sem-III were posted on September 24, 2026. See the notices for exact dates.",
+    "paraphrases":"When do Winter Session 2026 exams start?",
+    "keywords":"winter|session|2026|exams|start|commencement|notices|part",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":169,
+    "category":"Examinations",
+    "question":"Are ATKT (backlog) exams offered?",
+    "answer":"Yes, for both UG and PG, with exam form and fee notices (the PG deadline was extended in September 2026).",
+    "paraphrases":"Are ATKT (backlog) exams offered?",
+    "keywords":"atkt|backlog|exams|offered|both|exam|form|notices",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":170,
+    "category":"Examinations",
+    "question":"How does PG exam structure work?",
+    "answer":"Notices refer to Part-I Semester I\/II and Part-II Semester III\/IV, under both NEP and Old patterns.",
+    "paraphrases":"How does PG exam structure work?",
+    "keywords":"exam|structure|work|notices|refer|part|semester|under",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":171,
+    "category":"Examinations",
+    "question":"Are there UG ATKT notices for BCA\/BMS?",
+    "answer":"Yes, a notice for F.Y.B.C.A.\/F.Y.B.M.S. Semester II (AICTE, NEP) ATKT forms, posted September 8, 2026.",
+    "paraphrases":"Are there UG ATKT notices for BCA\/BMS?",
+    "keywords":"atkt|notices|notice|semester|aicte|forms|posted|september",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":172,
+    "category":"Examinations",
+    "question":"Where are exam rules published?",
+    "answer":"Examination \u2192 Rules & Regulations.",
+    "paraphrases":"Where are exam rules published?",
+    "keywords":"exam|rules|published|examination|regulations",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":173,
+    "category":"Examinations",
+    "question":"Is there an academic calendar?",
+    "answer":"Yes, under IQAC & NAAC \u2192 Academic Calendars.",
+    "paraphrases":"Is there an academic calendar?",
+    "keywords":"academic|calendar|under|iqac|naac|calendars",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":174,
+    "category":"Student Life and Support",
+    "question":"Does the college have an NCC unit?",
+    "answer":"Yes.",
+    "paraphrases":"Does the college have an NCC unit?",
+    "keywords":"unit",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":175,
+    "category":"Student Life and Support",
+    "question":"Does it have an NSS unit?",
+    "answer":"Yes, National Service Scheme.",
+    "paraphrases":"Does it have an NSS unit?",
+    "keywords":"unit|national|service|scheme",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":176,
+    "category":"Student Life and Support",
+    "question":"Does it support sports?",
+    "answer":"Yes. There's a Sports page and a Gymkhana Committee. Students have won national-level honors (see Q 202\u2013203).",
+    "paraphrases":"Does it support sports?",
+    "keywords":"support|sports|gymkhana|committee|students|national|level|honors",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":177,
+    "category":"Student Life and Support",
+    "question":"Is there a Yoga centre?",
+    "answer":"Yes, the Centre for Yoga & Philosophy.",
+    "paraphrases":"Is there a Yoga centre?",
+    "keywords":"yoga|centre|philosophy",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":178,
+    "category":"Student Life and Support",
+    "question":"Is there a Rotaract Club?",
+    "answer":"Yes (rcbkbirla.com).",
+    "paraphrases":"Is there a Rotaract Club?",
+    "keywords":"rotaract|club|rcbkbirla",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":179,
+    "category":"Student Life and Support",
+    "question":"Does the college have a Student Council?",
+    "answer":"Yes, with a council list and an annual report.",
+    "paraphrases":"Does the college have a Student Council?",
+    "keywords":"student|council|list|annual|report",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":180,
+    "category":"Student Life and Support",
+    "question":"What is the Mentor\u2013Mentee Handbook?",
+    "answer":"A PDF explaining the mentoring system between faculty and students.",
+    "paraphrases":"What is the Mentor\u2013Mentee Handbook?",
+    "keywords":"mentor|mentee|handbook|explaining|mentoring|system|between|faculty",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":181,
+    "category":"Student Life and Support",
+    "question":"Is there a student satisfaction survey?",
+    "answer":"Yes, \"Student Satisfaction Analysis.\"",
+    "paraphrases":"Is there a student satisfaction survey?",
+    "keywords":"student|satisfaction|survey|analysis",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":182,
+    "category":"Student Life and Support",
+    "question":"Are there student achievers pages?",
+    "answer":"Yes, \"Student Achievers.\"",
+    "paraphrases":"Are there student achievers pages?",
+    "keywords":"student|achievers|pages",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":183,
+    "category":"Student Life and Support",
+    "question":"Where are student rules published?",
+    "answer":"Student Corner \u2192 Rules and Regulations, and a Code of Conduct PDF.",
+    "paraphrases":"Where are student rules published?",
+    "keywords":"student|rules|published|corner|regulations|code|conduct",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":184,
+    "category":"Student Life and Support",
+    "question":"What associations exist?",
+    "answer":"Arts Circle, Commerce Association, Science Association and Social Sciences Association.",
+    "paraphrases":"What associations exist?",
+    "keywords":"associations|exist|arts|circle|commerce|association|science|social",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":185,
+    "category":"Student Life and Support",
+    "question":"Is there a canteen committee?",
+    "answer":"Yes.",
+    "paraphrases":"Is there a canteen committee?",
+    "keywords":"canteen|committee",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":186,
+    "category":"Student Life and Support",
+    "question":"Is there a magazine committee?",
+    "answer":"Yes.",
+    "paraphrases":"Is there a magazine committee?",
+    "keywords":"magazine|committee",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":187,
+    "category":"Student Life and Support",
+    "question":"Is there a grievance cell?",
+    "answer":"Yes, the Grievance Redressal Cell.",
+    "paraphrases":"Is there a grievance cell?",
+    "keywords":"grievance|cell|redressal",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":188,
+    "category":"Student Life and Support",
+    "question":"How does the college handle harassment complaints?",
+    "answer":"Through the Internal Complaints Committee and the POSH Committee.",
+    "paraphrases":"How does the college handle harassment complaints?",
+    "keywords":"handle|harassment|complaints|through|internal|committee|posh",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":189,
+    "category":"Student Life and Support",
+    "question":"Is there a safety committee?",
+    "answer":"Yes.",
+    "paraphrases":"Is there a safety committee?",
+    "keywords":"safety|committee",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":190,
+    "category":"Student Life and Support",
+    "question":"Is there an attendance committee?",
+    "answer":"Yes, and a Monitoring Committee.",
+    "paraphrases":"Is there an attendance committee?",
+    "keywords":"attendance|committee|monitoring",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":191,
+    "category":"Student Life and Support",
+    "question":"Does the college have a hostel?",
+    "answer":"The pages I read don't confirm this. Third-party sites are inconsistent, so ask the college directly.",
+    "paraphrases":"Does the college have a hostel?",
+    "keywords":"hostel|pages|read|confirm|third|party|sites|inconsistent",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":192,
+    "category":"Library, Research and Learning Resources",
+    "question":"Does the college have a library?",
+    "answer":"Yes, a Central Library with infrastructure and institutional-membership pages.",
+    "paraphrases":"Does the college have a library?",
+    "keywords":"library|central|infrastructure|institutional|membership|pages",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":193,
+    "category":"Library, Research and Learning Resources",
+    "question":"Are library timings published?",
+    "answer":"Yes, on the Library Timings page.",
+    "paraphrases":"Are library timings published?",
+    "keywords":"library|timings|published",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":194,
+    "category":"Library, Research and Learning Resources",
+    "question":"Is there a library membership guideline?",
+    "answer":"Yes, \"Guidelines for Membership.\"",
+    "paraphrases":"Is there a library membership guideline?",
+    "keywords":"library|membership|guideline|guidelines",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":195,
+    "category":"Library, Research and Learning Resources",
+    "question":"What research resources are listed?",
+    "answer":"Projects, Publications, Department-Wise Research Data and the Ph.D. guides list.",
+    "paraphrases":"What research resources are listed?",
+    "keywords":"research|resources|listed|projects|publications|department|wise|data",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":196,
+    "category":"Library, Research and Learning Resources",
+    "question":"Does the college use online learning tools?",
+    "answer":"Yes, MS Teams under \"E-ABHYAS,\" plus a Netiquette Guide for Online Learning.",
+    "paraphrases":"Does the college use online learning tools?",
+    "keywords":"online|learning|tools|teams|under|abhyas|plus|netiquette",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":197,
+    "category":"Library, Research and Learning Resources",
+    "question":"Can students take SWAYAM\/NPTEL courses?",
+    "answer":"Yes. The site lists certificate details, active SPOC certificates and a local chapter.",
+    "paraphrases":"Can students take SWAYAM\/NPTEL courses?",
+    "keywords":"students|take|swayam|nptel|courses|lists|certificate|active",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":198,
+    "category":"Library, Research and Learning Resources",
+    "question":"Does the college offer IIT Bombay Spoken Tutorials?",
+    "answer":"Yes, with a course list and a list of students who completed them.",
+    "paraphrases":"Does the college offer IIT Bombay Spoken Tutorials?",
+    "keywords":"offer|bombay|spoken|tutorials|course|list|students|completed",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":199,
+    "category":"Library, Research and Learning Resources",
+    "question":"Which open resources does it point to?",
+    "answer":"Shodhganga, the National Digital Library of India and a list of open-access resources.",
+    "paraphrases":"Which open resources does it point to?",
+    "keywords":"open|resources|point|shodhganga|national|digital|library|india",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":200,
+    "category":"Library, Research and Learning Resources",
+    "question":"Does the college offer extension services?",
+    "answer":"Yes, plus a Department of Lifelong Learning and Extension.",
+    "paraphrases":"Does the college offer extension services?",
+    "keywords":"offer|extension|services|plus|department|lifelong|learning",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":201,
+    "category":"Scholarships, Placements and Achievements",
+    "question":"Does the college offer scholarships?",
+    "answer":"Yes. See Student Corner \u2192 Scholarships & Endowment Prizes.",
+    "paraphrases":"Does the college offer scholarships?",
+    "keywords":"offer|scholarships|student|corner|endowment|prizes",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":202,
+    "category":"Scholarships, Placements and Achievements",
+    "question":"Is there an industry scholarship?",
+    "answer":"Yes. An Industry Skill Scholarship Partner was recognized for 2025\u201326 and 2026\u201327 with a total commitment of \u20b920,25,000 for students.",
+    "paraphrases":"Is there an industry scholarship?",
+    "keywords":"industry|scholarship|skill|partner|recognized|2025|2026|total",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":203,
+    "category":"Scholarships, Placements and Achievements",
+    "question":"Has the college produced sports achievers?",
+    "answer":"Yes: Isha Bhagat won silver at the Under-20 National Triathlon Championship, and Pratiksha Bhoir (FYBA) took second place at the Junior National Rugby 7s Championship 2026.",
+    "paraphrases":"Has the college produced sports achievers?",
+    "keywords":"produced|sports|achievers|isha|bhagat|silver|under|national",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":204,
+    "category":"Scholarships, Placements and Achievements",
+    "question":"Do alumni get into civil services?",
+    "answer":"One example: Shivkumar Jadhav (M.A. Business Economics, 2023\u201324 batch) was appointed Dy. CEO\/Block Development Officer through MPSC Civil Service Exam 2024\u201325.",
+    "paraphrases":"Do alumni get into civil services?",
+    "keywords":"alumni|into|civil|services|example|shivkumar|jadhav|business",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":205,
+    "category":"Scholarships, Placements and Achievements",
+    "question":"Have students won research competitions?",
+    "answer":"Yes. Vivek Das (TYBMS Marketing) won 1st prize in research paper presentation at the 2nd Asia Pacific International Conference, and Ms. Saroj Iyengar and Dr. Suraj Agarwala won Best Research Paper at D. G. Ruparel College (April 2025).",
+    "paraphrases":"Have students won research competitions?",
+    "keywords":"students|research|competitions|vivek|tybms|marketing|prize|paper",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":206,
+    "category":"Scholarships, Placements and Achievements",
+    "question":"Is there a Placement Cell?",
+    "answer":"Yes: bkbck.edu.in\/placement-cell\/",
+    "paraphrases":"Is there a Placement Cell?",
+    "keywords":"placement|cell",
+    "source_url":"https:\/\/bkbck.edu.in\/placement-cell\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":207,
+    "category":"Scholarships, Placements and Achievements",
+    "question":"Which companies recruit?",
+    "answer":"I couldn't verify this on the official site. Third-party pages mention Wipro, L&T and Capgemini, so check the Placement Cell page.",
+    "paraphrases":"Which companies recruit?",
+    "keywords":"companies|recruit|couldn|verify|official|third|party|pages",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":208,
+    "category":"Scholarships, Placements and Achievements",
+    "question":"What do students say about placements?",
+    "answer":"Student reviews on third-party sites say placements are average, with some internships offered.",
+    "paraphrases":"What do students say about placements?",
+    "keywords":"students|placements|student|reviews|third|party|sites|average",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":209,
+    "category":"Scholarships, Placements and Achievements",
+    "question":"Are there corporate events on campus?",
+    "answer":"Yes, for example \"Pantaloons comes to B.K. Birla College\" (July 2025) and an Entrepreneurship & Start-up Clinic session.",
+    "paraphrases":"Are there corporate events on campus?",
+    "keywords":"corporate|events|campus|example|pantaloons|comes|july|2025",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":210,
+    "category":"Scholarships, Placements and Achievements",
+    "question":"Are there tech events?",
+    "answer":"Yes, such as a Robotics and 3D-Printing Workshop (July 2025) and \"Test your tech IQ\" (August 2025).",
+    "paraphrases":"Are there tech events?",
+    "keywords":"tech|events|such|robotics|printing|workshop|july|2025",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":211,
+    "category":"Junior College, International and Value-Based Programs",
+    "question":"Which streams does the Junior College offer?",
+    "answer":"Arts, Commerce and Science (XI and XII), plus vocational courses.",
+    "paraphrases":"Which streams does the Junior College offer?",
+    "keywords":"streams|junior|offer|arts|commerce|science|plus|vocational",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":212,
+    "category":"Junior College, International and Value-Based Programs",
+    "question":"Where do I register for Junior College?",
+    "answer":"bkbck.edu.in\/junior-college-admission-registration\/",
+    "paraphrases":"Where do I register for Junior College?",
+    "keywords":"register|junior|admission|registration",
+    "source_url":"https:\/\/bkbck.edu.in\/junior-college-admission-registration\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":213,
+    "category":"Junior College, International and Value-Based Programs",
+    "question":"What is the Global Master's Program?",
+    "answer":"An international program with Vistula University (Poland), promoted as \"Study in Europe.\" See its page for details.",
+    "paraphrases":"What is the Global Master's Program?",
+    "keywords":"global|master|program|international|vistula|university|poland|promoted",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":214,
+    "category":"Junior College, International and Value-Based Programs",
+    "question":"What is the Global Education Program?",
+    "answer":"A program (PGDGE, teacher training) offered through a partner site (abea.in). The college links to it.",
+    "paraphrases":"What is the Global Education Program?",
+    "keywords":"global|education|program|pgdge|teacher|training|offered|through",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":215,
+    "category":"Junior College, International and Value-Based Programs",
+    "question":"What are the Value Based Education centres?",
+    "answer":"The Gandhian Studies Centre, Dr. Ambedkar Studies Centre and Women Studies Centre.",
+    "paraphrases":"What are the Value Based Education centres?",
+    "keywords":"value|based|education|centres|gandhian|studies|centre|ambedkar",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":216,
+    "category":"Junior College, International and Value-Based Programs",
+    "question":"Does the college have an Indian Knowledge Systems centre?",
+    "answer":"Yes. News mentions a Center for IKS that held an Ayurveda Day pledge.",
+    "paraphrases":"Does the college have an Indian Knowledge Systems centre?",
+    "keywords":"indian|knowledge|systems|centre|news|mentions|center|held",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":217,
+    "category":"Junior College, International and Value-Based Programs",
+    "question":"Are there environmental initiatives?",
+    "answer":"Yes, the Eco Sensitive Campus page, and the Environmental Sciences department celebrated World Ozone Day.",
+    "paraphrases":"Are there environmental initiatives?",
+    "keywords":"environmental|initiatives|sensitive|campus|sciences|department|celebrated|world",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":218,
+    "category":"Governance and Contact",
+    "question":"Where can I see the governing body?",
+    "answer":"About Us \u2192 Governing Structure & Quality Policy (Governing Council Members, Governing Body).",
+    "paraphrases":"Where can I see the governing body?",
+    "keywords":"governing|body|structure|quality|policy|council|members",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":219,
+    "category":"Governance and Contact",
+    "question":"Is there a Quality Policy?",
+    "answer":"Yes.",
+    "paraphrases":"Is there a Quality Policy?",
+    "keywords":"quality|policy",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":220,
+    "category":"Governance and Contact",
+    "question":"Where are the college policies?",
+    "answer":"In the Policy Manual PDF and the Organization Charts (2020\u201321 to 2024\u201325).",
+    "paraphrases":"Where are the college policies?",
+    "keywords":"policies|policy|manual|organization|charts|2020|2024",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":221,
+    "category":"Governance and Contact",
+    "question":"Who leads the college academically?",
+    "answer":"See \"Academic Leadership\" and \"Leadership Speaks\" on the About Us menu.",
+    "paraphrases":"Who leads the college academically?",
+    "keywords":"leads|academically|academic|leadership|speaks|menu",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":222,
+    "category":"Governance and Contact",
+    "question":"Is faculty hiring posted online?",
+    "answer":"Yes. A Careers page and a notice for Assistant Professor (Unaided), dated August 19, 2026.",
+    "paraphrases":"Is faculty hiring posted online?",
+    "keywords":"faculty|hiring|posted|online|careers|notice|assistant|professor",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":223,
+    "category":"Governance and Contact",
+    "question":"Where can I find contact details?",
+    "answer":"https:\/\/bkbck.edu.in\/contact-us\/",
+    "paraphrases":"Where can I find contact details?",
+    "keywords":"find|contact|https",
+    "source_url":"https:\/\/bkbck.edu.in\/contact-us\/",
+    "last_updated":"2026-10-26"
+  },
+  {
+    "id":224,
+    "category":"Governance and Contact",
+    "question":"Why should I double-check fees and dates?",
+    "answer":"Because the fee tables, admission process PDF and seat numbers weren't readable to me, and notices change often. Always verify on the official site or with the admission office.",
+    "paraphrases":"Why should I double-check fees and dates?",
+    "keywords":"should|double|fees|dates|because|tables|admission|process",
+    "source_url":"https:\/\/bkbck.edu.in\/",
+    "last_updated":"2026-10-26"
+  }
+]
