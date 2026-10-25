@@ -25,31 +25,30 @@ def test_retriever_initialization(initialized_retriever):
 def test_retriever_categories(initialized_retriever):
     """Verify categories extracted from sample FAQs."""
     categories = initialized_retriever.get_categories()
-    assert "Admissions" in categories
-    assert "Fees" in categories
-    assert "Hostel" in categories
-    assert "Exams" in categories
-    assert "Placements" in categories
+    assert "Admission Process" in categories
+    assert "Fees, Refunds and Cancellation" in categories
+    assert "Technology Programs" in categories
+    assert "Arts Programs" in categories
+    assert "About the College" in categories
 
 
 def test_retrieval_exact_and_semantic_query(initialized_retriever):
-    """Verify high retrieval match for tuition fee inquiry."""
-    result = initialized_retriever.retrieve("What is the tuition fee for BTech?")
+    """Verify high retrieval match for cancellation deduction inquiry."""
+    result = initialized_retriever.retrieve("What are cancellation deductions before the term starts?")
     assert result["top_match"] is not None
     assert result["is_confident"] is True
-    # The top match should be either FAQ 4 (B.Tech tuition fee) or related fee FAQ
-    assert result["top_match"]["category"] == "Fees"
+    assert result["top_match"]["category"] == "Fees, Refunds and Cancellation"
     assert result["top_score"] >= 0.35
 
 
 def test_category_filtering(initialized_retriever):
     """Verify that category filtering restricts matches to the chosen domain."""
     result = initialized_retriever.retrieve(
-        query="What are the rules and timings?",
-        category="Hostel"
+        query="What is deducted up to 20 days after the term starts?",
+        category="Fees, Refunds and Cancellation"
     )
     assert result["top_match"] is not None
-    assert result["top_match"]["category"] == "Hostel"
+    assert result["top_match"]["category"] == "Fees, Refunds and Cancellation"
 
 
 def test_out_of_scope_query_low_confidence(initialized_retriever):

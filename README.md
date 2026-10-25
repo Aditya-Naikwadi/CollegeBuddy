@@ -1,6 +1,6 @@
-# 🎓 CampusGuide AI: College FAQ Chatbot
+# 🎓 CollegeBuddy: B.K.Birla College AI Chatbot
 
-An intelligent, explainable web chatbot that answers student inquiries about college admissions, tuition fees, hostels, examinations, and placements using **verified college FAQ records**. 
+An intelligent, explainable web chatbot that answers student inquiries about **B.K.Birla College of Arts, Science & Commerce, Kalyan (Autonomous)** regarding admissions, programs (Arts, Commerce, Science, Technology), eligibility, fee refund rules, examinations, and placements using **verified college records**. 
 
 Built with **Hybrid Information Retrieval** (TF-IDF + FastEmbed BGE-small ONNX) and an optional grounded Anthropic Claude LLM layer, strictly constrained to zero-hallucination responses.
 
@@ -15,7 +15,7 @@ flowchart TD
         Chips["Category Filter & Starter Chips"]
         Explain["'How I Answered' Explainability Panel"]
         Feedback["Thumbs Up / Down Rating"]
-        AdminUI["Admin Portal (/admin)"]
+        Catalog["FAQ Catalog Modal"]
     end
 
     subgraph Server["Backend (FastAPI + Python 3.11)"]
@@ -87,12 +87,8 @@ flowchart TD
    - If the top hybrid score falls below `0.35`, the chatbot responds: *"I'm not sure about that..."* and renders the top 3 closest related questions as one-click query chips.
 4. **Lightweight Multi-Turn Follow-Ups**:
    - If a follow-up query is under 4 words (e.g., *"and curfew?"* after asking about hostel rooms), the bot automatically prepends the previous user turn to preserve context.
-5. **Admin Management Portal (`/admin`)**:
-   - Protected by `ADMIN_TOKEN`.
-   - Add, edit, and delete FAQs directly via web UI.
-   - **Zero-Downtime Index Retraining**: Click *"Retrain Index"* to rebuild TF-IDF and FastEmbed vectors on the running server without restarting.
-   - **Knowledge Gap Analysis**: Real-time table of frequent questions where confidence fell below threshold, with a 1-click `+ Create FAQ` button.
-   - CSV dataset upload with automated schema and consistency validation.
+5. **Searchable FAQ Catalog Modal**:
+   - Students can browse, filter by category, and instantly search all 224 verified FAQs with 1-click prompt injection into the chat.
 
 ---
 

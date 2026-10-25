@@ -20,7 +20,7 @@ def test_health_endpoint(client):
     assert data["status"] == "ok"
     assert data["faqs_count"] >= 20
     assert data["model_loaded"] is True
-    assert "Admissions" in data["categories"]
+    assert "Admission Process" in data["categories"]
 
 
 def test_categories_endpoint(client):
@@ -29,13 +29,13 @@ def test_categories_endpoint(client):
     assert response.status_code == 200
     cats = response.json().get("categories", [])
     assert len(cats) >= 5
-    assert "Hostel" in cats
+    assert "Fees, Refunds and Cancellation" in cats or "Admission Process" in cats
 
 
 def test_chat_endpoint_valid_query(client):
     """Verify chat query answering and match structure."""
     payload = {
-        "message": "How much is the hostel room fee?",
+        "message": "What is the eligibility for B.Sc. Information Technology?",
         "category": None,
         "history": []
     }
@@ -47,26 +47,23 @@ def test_chat_endpoint_valid_query(client):
     assert len(data["matches"]) >= 1
     assert "query_tokens" in data
     assert data["log_id"] is not None
-    assert "65,000" in data["answer"] or "hostel" in data["answer"].lower()
+    assert "mathematics" in data["answer"].lower() or "45%" in data["answer"]
 
 
 def test_chat_multi_turn_handling(client):
     """Verify short follow-up (<4 words) leverages prior conversation context."""
-    # First turn: ask about hostel
-    # Second turn: user simply says "and curfew?"
     payload = {
-        "message": "and curfew?",
+        "message": "and after September 30?",
         "category": None,
         "history": [
-            {"role": "user", "content": "Tell me about the hostel rooms"},
-            {"role": "assistant", "content": "The campus provides air-conditioned hostels."}
+            {"role": "user", "content": "What are the fees deduction rules for admission cancellation?"},
+            {"role": "assistant", "content": "Admission cancellation and refunds follow University of Mumbai Circular UG/412 of 2008."}
         ]
     }
     response = client.post("/api/chat", json=payload)
     assert response.status_code == 200
     data = response.json()
-    # The combined query should hit FAQ 9 regarding curfew timings (9:30 PM)
-    assert "9:30" in data["answer"] or "curfew" in data["answer"].lower() or data["confidence"] > 0.35
+    assert "refund" in data["answer"].lower() or "deduction" in data["answer"].lower() or data["confidence"] > 0.35
 
 
 def test_chat_fallback_for_out_of_scope(client):

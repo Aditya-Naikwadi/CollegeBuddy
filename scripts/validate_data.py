@@ -116,12 +116,12 @@ def validate_faq_csv(file_path: str) -> bool:
   if warnings:
     print(f"\n--- Warnings ({len(warnings)}) ---")
     for w in warnings:
-      print(f"⚠️  {w}")
+      print(f"[WARN] {w}")
 
   if errors:
     print(f"\n--- Errors ({len(errors)}) ---")
     for err in errors:
-      print(f"❌ {err}")
+      print(f"[ERROR] {err}")
     print("\n[RESULT] Validation FAILED.")
     return False
 

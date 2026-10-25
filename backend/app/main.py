@@ -62,8 +62,8 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(
-    title="College FAQ Chatbot API",
-    description="Intelligent AI chatbot providing verified college information with hybrid search and full explainability.",
+    title="CollegeBuddy - B.K.Birla College Chatbot API",
+    description="CollegeBuddy: Intelligent AI chatbot providing verified information for B.K.Birla College with hybrid search and full explainability.",
     version="1.0.0",
     lifespan=lifespan
 )

@@ -2,12 +2,12 @@ import React from 'react';
 import { Sparkles, DollarSign, Home, GraduationCap, Briefcase, FileText } from 'lucide-react';
 
 const STARTER_PROMPTS = [
-  { icon: DollarSign, text: "What is the annual tuition fee for B.Tech?" },
-  { icon: Home, text: "What are the hostel room rent charges and curfew?" },
-  { icon: Briefcase, text: "What was the highest and average placement package?" },
-  { icon: GraduationCap, text: "What are the eligibility criteria for B.Tech admission?" },
-  { icon: FileText, text: "Is 75% attendance mandatory for exams?" },
-  { icon: Sparkles, text: "Are merit-based scholarships or fee waivers provided?" },
+  { icon: Sparkles, text: "Tell me about B.K. Birla College, its history and accreditations" },
+  { icon: GraduationCap, text: "What programs are offered in Science and Technology?" },
+  { icon: FileText, text: "What is the eligibility for B.Sc. IT and Computer Science?" },
+  { icon: DollarSign, text: "What are the admission cancellation and fee refund rules?" },
+  { icon: Home, text: "How do I register for Degree College or Junior College admission?" },
+  { icon: Briefcase, text: "What placement cell support and scholarships are available?" },
 ];
 
 export default function StarterChips({ onSelectPrompt }) {
@@ -17,10 +17,10 @@ export default function StarterChips({ onSelectPrompt }) {
         <Sparkles className="h-6 w-6" />
       </div>
       <h2 className="text-xl sm:text-2xl font-bold text-slate-800 dark:text-slate-100 mb-2">
-        Welcome to CampusGuide AI
+        Welcome to CollegeBuddy
       </h2>
       <p className="text-sm text-slate-500 dark:text-slate-400 mb-6">
-        Get instant, verified answers directly from official college records. Try asking one of these questions or type your own below:
+        B.K.Birla College — Get instant, verified answers about programs, eligibility, admissions, and fees directly from official records.
       </p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-left">

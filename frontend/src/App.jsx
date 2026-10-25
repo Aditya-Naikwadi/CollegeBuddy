@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import Navbar from './components/Navbar';
 import ChatPage from './pages/ChatPage';
 import FAQCatalogModal from './components/FAQCatalogModal';
-import AdminPage from './pages/AdminPage';
 
 export default function App() {
   const [darkMode, setDarkMode] = useState(() => {
@@ -10,7 +9,6 @@ export default function App() {
       (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches);
   });
   const [isOnline, setIsOnline] = useState(false);
-  const [currentView, setCurrentView] = useState('chat'); // 'chat' | 'admin'
   const [isCatalogOpen, setIsCatalogOpen] = useState(false);
   const [injectedPrompt, setInjectedPrompt] = useState(null);
 
@@ -31,22 +29,17 @@ export default function App() {
         darkMode={darkMode}
         setDarkMode={setDarkMode}
         isOnline={isOnline}
-        onOpenAdmin={() => setCurrentView(currentView === 'admin' ? 'chat' : 'admin')}
         onViewCatalog={() => setIsCatalogOpen(true)}
       />
 
-      {/* Main View Router */}
+      {/* Main View */}
       <main className="flex-1 flex flex-col">
-        {currentView === 'admin' ? (
-          <AdminPage onBackToChat={() => setCurrentView('chat')} />
-        ) : (
-          <ChatPage
-            isOnline={isOnline}
-            setIsOnline={setIsOnline}
-            injectedPrompt={injectedPrompt}
-            onPromptConsumed={() => setInjectedPrompt(null)}
-          />
-        )}
+        <ChatPage
+          isOnline={isOnline}
+          setIsOnline={setIsOnline}
+          injectedPrompt={injectedPrompt}
+          onPromptConsumed={() => setInjectedPrompt(null)}
+        />
       </main>
 
       {/* FAQ Catalog Modal */}
@@ -55,7 +48,6 @@ export default function App() {
         onClose={() => setIsCatalogOpen(false)}
         onSelectQuestion={(question) => {
           setInjectedPrompt(question);
-          setCurrentView('chat');
           setIsCatalogOpen(false);
         }}
       />
